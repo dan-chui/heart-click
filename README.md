@@ -1,6 +1,6 @@
 # Heart Clicks
 
-Record Likes (Hearts) given by Users. Inspired by Traversy.
+Record the number of Likes (Hearts) given by Users for images. Inspired by Traversy.
 
 ## Tech Stack
 
